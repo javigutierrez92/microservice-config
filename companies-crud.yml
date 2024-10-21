@@ -1,4 +1,4 @@
-
+spring:
   datasource:
     url: jdbc:postgresql://localhost:5433/companies
     username: debuggeandoideas
